@@ -1,3 +1,7 @@
+
+List of Open Ports & Significance
+
+
 | Port         | Service     | Version / Notes            | Significance / Potential Risks                                                                                                   |
 | ------------ | ----------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **21/tcp**   | FTP         | vsftpd 2.3.4               | Legacy version with known vulnerabilities. Allows file transfers; often targeted for credential brute force or anonymous access. |
