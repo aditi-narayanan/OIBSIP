@@ -55,3 +55,7 @@ Recommendations
     Encrypt remote access wherever possible (replace VNC with SSH tunnels, disable Telnet/rsh).
 
     Audit for malware or compromise — system appears highly exposed.
+
+Basic network scan with nmap (Demo Video)
+
+https://github.com/user-attachments/assets/f09a796f-d0ad-46ce-8a45-4330596cd07d
