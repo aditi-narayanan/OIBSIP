@@ -31,3 +31,4 @@ After deleting the rule, HTTP websites can be accessed.
 
 Configuring Basic Firewall using UFW Demo Video:
 
+https://github.com/user-attachments/assets/1be0f2b6-36a6-4afa-842c-7ebcbf8e712b
