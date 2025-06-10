@@ -15,3 +15,5 @@ Finally, the --dbs option tells sqlmap to enumerate and list all the databases p
 Overall, the script simplifies the process of conducting an SQL injection attack by combining required input validation, session handling, and payload execution in a single automated command.
 
 Exploiting SQL injection in DVWA (low security) Demo video:
+
+https://github.com/user-attachments/assets/cb19c7d5-15cc-4a08-bbd2-3a8cbf404161
