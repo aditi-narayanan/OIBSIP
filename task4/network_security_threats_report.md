@@ -52,6 +52,10 @@ A Denial-of-Service (DoS) attack is designed to shut down a machine or network, 
 
 Attackers typically exploit vulnerabilities in servers, routers, or IoT (Internet of Things) devices to form a botnet — a network of infected machines under their control — to amplify the attack.
 
+![Image](https://github.com/user-attachments/assets/4e8c4769-9265-4862-93d3-a6292708339a)
+
+#### The image illustrates how multiple compromised systems (bots) are coordinated by an attacker to flood a target server with overwhelming traffic in a Distributed Denial-of-Service (DDoS) attack.
+
 ### 2.2 Impact
 
 Service Disruption: Users are unable to access websites or applications.<br/>
@@ -92,6 +96,10 @@ Session Hijacking: Attacker steals a user's session ID to impersonate them.<br/>
 
 MITM attacks can occur over unsecured Wi-Fi networks or via compromised routers and network switches.<br/>
 
+![Image](https://github.com/user-attachments/assets/33d403da-3e8b-4968-b03b-3363a5683542)
+
+#### The image shows a Man-in-the-Middle (MITM) attack where an attacker intercepts and relays data between a client and server without their knowledge.
+
 ### 3.2 Impact
 
 Data Theft: Confidential data like login credentials, credit card numbers, or personal messages can be stolen.<br/>
@@ -129,6 +137,10 @@ Email Spoofing: Forges email headers to appear as if sent from a trusted source.
 DNS Spoofing: Redirects queries to malicious IP addresses.<br/>
 
 These attacks are often used to facilitate phishing, malware delivery, or to bypass firewalls and authentication mechanisms.<br/>
+
+![Image](https://github.com/user-attachments/assets/3ac51395-8668-4fde-adba-779d1ced68f6)
+
+#### The image illustrates an IP spoofing attack where the attacker sends packets to a web server using a forged source IP address, making it appear as though they originate from a spoofed victim.
 
 ### 4.2 Impact
 
