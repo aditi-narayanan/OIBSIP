@@ -13,7 +13,7 @@
 
 ---
 
-## **1. Introduction**
+## 1. Introduction
 
 In the digital age, networks are the backbone of communication and data exchange. However, they are vulnerable to various security threats that can compromise data integrity, confidentiality, and availability. This report focuses on three common network security threats: **Denial-of-Service (DoS)** attacks, **Man-in-the-Middle (MITM)** attacks, and spoofing. We explore how these threats operate, their impact, real-world examples, and possible mitigation strategies. The goal is to provide readers with an in-depth understanding of each threat and equip them with best practices for prevention and response.
 
