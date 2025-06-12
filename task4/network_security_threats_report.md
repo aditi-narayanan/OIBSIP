@@ -4,13 +4,25 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Denial-of-Service (DoS) Attacks](#denial-of-service-(dos)-attacks)
-3. [Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-(mitm)-attacks)
-4. [Spoofing Attacks](#spoofing-attacks)
-5. [Conclusion](#conclusion)  
-6. [References](#references)  
-
+1. [Introduction](#1-introduction)  
+2. [Denial-of-Service (DoS) Attacks](#2-denial-of-service-dos-attacks)  
+    - [2.1 How It Works](#21-how-it-works)  
+    - [2.2 Impact](#22-impact)  
+    - [2.3 Real-World Example](#23-real-world-example)  
+    - [2.4 Mitigation Measures](#24-mitigation-measures)  
+3. [Man-in-the-Middle (MITM) Attacks](#3-man-in-the-middle-mitm-attacks)  
+    - [3.1 How It Works](#31-how-it-works)  
+    - [3.2 Impact](#32-impact)  
+    - [3.3 Real-World Example](#33-real-world-example)  
+    - [3.4 Mitigation Measures](#34-mitigation-measures)  
+4. [Spoofing Attacks](#4-spoofing-attacks)  
+    - [4.1 How It Works](#41-how-it-works)  
+    - [4.2 Impact](#42-impact)  
+    - [4.3 Real-World Example](#43-real-world-example)  
+    - [4.4 Mitigation Measures](#44-mitigation-measures)  
+5. [Conclusion](#5-conclusion)  
+6. [References](#6-references)
+   
 ---
 
 ## 1. Introduction
