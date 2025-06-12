@@ -6,9 +6,24 @@
 
 1. [Introduction](#introduction)  
 2. [Types of Social Engineering Attacks](#types-of-social-engineering-attacks)  
-   - [Phishing](#1-phishing)  
-   - [Pretexting](#2-pretexting)  
-   - [Baiting](#3-baiting)  
+   - [1. Phishing](#1-phishing)  
+     - [1.1 What It Is](#11-what-it-is)  
+     - [1.2 How It Works](#12-how-it-works)  
+     - [1.3 Case Studies](#13-case-studies)
+     - [1.4 Impact on Organizations](#14-impact-on-organizations)   
+     - [1.5 Prevention of Phishing](#15-prevention-of-phishing)  
+   - [2. Pretexting](#2-pretexting)  
+     - [2.1 What It Is](#21-what-it-is)  
+     - [2.2 How It Works](#22-how-it-works)  
+     - [2.3 Case Studies](#23-case-studies)   
+     - [2.4 Impact on Organizations](#24-impact-on-organizations)
+     - [2.5 Prevention of Pretexting](#25-prevention-of-pretexting)   
+   - [3. Baiting](#3-baiting)  
+     - [3.1 What It Is](#31-what-it-is)  
+     - [3.2 How It Works](#32-how-it-works)  
+     - [3.3 Baiting Case Studies](#33-baiting-case-studies)    
+     - [3.4 Impact on Organizations](#34-impact-on-organizations)
+     - [3.5 Prevention of Baiting](#35-prevention-of-baiting)  
 3. [Conclusion](#conclusion)  
 4. [References](#references)  
 
@@ -46,15 +61,8 @@ Phishing involves **fraudulent communication (usually email)** that appears to c
 - **What Happened**: Attackers used phishing emails to access the network.
 - **Impact**: Over **77 million user accounts** compromised, leading to an estimated **$171 million** in losses.
 - **Result**: Sony had to shut down its network for 23 days, and its reputation took a hit.
-  
-#### 1.4 Prevention of Phishing
 
--  **Email Security**: Use DMARC, SPF, and DKIM to validate email authenticity.
--  **Multi-Factor Authentication (MFA)**: Even if credentials are phished, MFA can block access.
--  **Phishing Simulations**: Conduct regular training with fake phishing emails.
--  **Anti-Phishing Toolkits**: Employ browser and email client filters.
-
-#### 1.5 Impact on Organizations
+#### 1.4 Impact on Organizations
 
 - **Financial Losses**  
   - Employees may be tricked into transferring funds or providing payment details to fraudsters.
@@ -72,6 +80,13 @@ Phishing involves **fraudulent communication (usually email)** that appears to c
 - **Operational Downtime**  
   - Ransomware or malware delivered through phishing emails can halt operations for days or weeks.
 
+#### 1.5 Prevention of Phishing
+
+-  **Email Security**: Use DMARC, SPF, and DKIM to validate email authenticity.
+-  **Multi-Factor Authentication (MFA)**: Even if credentials are phished, MFA can block access.
+-  **Phishing Simulations**: Conduct regular training with fake phishing emails.
+-  **Anti-Phishing Toolkits**: Employ browser and email client filters.
+  
 ---
 
 ### 2. Pretexting
@@ -95,15 +110,8 @@ Pretexting is a type of social engineering where the attacker creates a **fabric
 - **What Happened**: Attackers pretended to be Apple Support and tricked celebrities into giving up iCloud credentials.
 - **Impact**: Private data, including sensitive photos, was leaked online.
 - **Result**: Apple strengthened its two-factor authentication and user education.
-  
-#### 2.4 Prevention of Pretexting
 
--  **Verify Identity**: Always confirm identities via a second channel before sharing data.
--  **Limit Information Exposure**: Reduce availability of organizational details online (LinkedIn, company directories).
--  **Security Awareness Training**: Teach employees how to detect suspicious requests.
--  **Incident Reporting Channels**: Create easy ways to report potential pretexting attempts.
-
-#### 2.5 Impact on Organizations
+#### 2.4 Impact on Organizations
 
 - **Unauthorized Access**  
   - Attackers may impersonate IT staff, executives, or vendors to gain internal access.
@@ -120,6 +128,13 @@ Pretexting is a type of social engineering where the attacker creates a **fabric
 - **Trust Erosion**  
   - Vendors and stakeholders may reconsider partnerships if the organization appears easily deceived.
 
+#### 2.5 Prevention of Pretexting
+
+-  **Verify Identity**: Always confirm identities via a second channel before sharing data.
+-  **Limit Information Exposure**: Reduce availability of organizational details online (LinkedIn, company directories).
+-  **Security Awareness Training**: Teach employees how to detect suspicious requests.
+-  **Incident Reporting Channels**: Create easy ways to report potential pretexting attempts.
+  
 ---
 
 ### 3. Baiting
@@ -144,14 +159,7 @@ Baiting lures victims with **enticing offers or objects**, such as free media fi
 - **Impact**: Contained 76 folders with maps, security procedures, and video surveillance data.
 - **Result**: The airport faced public scrutiny and a **£120,000 fine** under GDPR.
 
-#### 3.4 Prevention of Baiting
-
-- **Disable Autorun**: Prevent USB devices from auto-launching programs.
-- **Device Control Policies**: Restrict use of external storage on corporate machines.
-- **User Awareness**: Educate staff not to interact with unrecognized USB drives or download unknown files.
-- **Endpoint Protection**: Use antivirus and behavior-based malware detection.
-
-#### 3.5 Impact on Organizations
+#### 3.4 Impact on Organizations
 
 - **Malware Infections**  
   - USB drives or malicious downloads infect networks with spyware, ransomware, or keyloggers.
@@ -167,6 +175,13 @@ Baiting lures victims with **enticing offers or objects**, such as free media fi
 
 - **Post-Attack Security Costs**  
   - Organizations may need to upgrade security infrastructure, retrain staff, or purchase cyber insurance.
+
+#### 3.5 Prevention of Baiting
+
+- **Disable Autorun**: Prevent USB devices from auto-launching programs.
+- **Device Control Policies**: Restrict use of external storage on corporate machines.
+- **User Awareness**: Educate staff not to interact with unrecognized USB drives or download unknown files.
+- **Endpoint Protection**: Use antivirus and behavior-based malware detection.
 
 ---
 
