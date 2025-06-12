@@ -5,8 +5,8 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)  
-2. [Denial-of-Service (DoS) Attacks](#denial-of-service-attacks)
-3. [Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-attacks)
+2. [Denial-of-Service (DoS) Attacks](#denial-of-service-(dos)-attacks)
+3. [Man-in-the-Middle (MITM) Attacks](#man-in-the-middle-(mitm)-attacks)
 4. [Spoofing Attacks](#spoofing-attacks)
 5. [Conclusion](#conclusion)  
 6. [References](#references)  
