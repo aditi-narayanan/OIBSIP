@@ -1,5 +1,9 @@
 # Nikto Scan Analysis: 192.168.56.101
 
+## To install nikto type the following command
+
+sudo apt install nikto
+
 ## Scan Summary
 
 - **Server:** Apache/2.2.8 (Outdated)
@@ -99,3 +103,12 @@
 - Disable directory browsing and HTTP TRACE.
 - Harden Apache config (e.g., disable `MultiViews`).
 - Limit access to admin tools like `phpMyAdmin`.
+
+## Scan Output
+
+![Image](https://github.com/user-attachments/assets/cb69df51-d0e7-4c55-96b2-816b87f0eded)
+
+## Demo Video
+
+https://github.com/user-attachments/assets/64b7324b-ede4-4e41-875d-380abb919347
+
