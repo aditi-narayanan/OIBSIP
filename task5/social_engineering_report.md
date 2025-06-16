@@ -21,7 +21,7 @@
    - [3. Baiting](#3-baiting)  
      - [3.1 What It Is](#31-what-it-is)  
      - [3.2 How It Works](#32-how-it-works)  
-     - [3.3 Baiting Case Studies](#33-baiting-case-studies)    
+     - [3.3 Case Studies](#33-case-studies)    
      - [3.4 Impact on Organizations](#34-impact-on-organizations)
      - [3.5 Prevention of Baiting](#35-prevention-of-baiting)  
 3. [Conclusion](#conclusion)  
@@ -147,7 +147,7 @@ Baiting lures victims with **enticing offers or objects**, such as free media fi
 - The victim, curious or greedy, accesses the bait.
 - **Malware is installed** on the victim’s device, providing the attacker access.
 
-#### 3.3 Baiting Case Studies
+#### 3.3 Case Studies
 
 ##### Case Study 1: Stuxnet via USB Drives (2010)
 - **What Happened**: Infected USB drives were left near Iran’s nuclear facility. Curious staff plugged them in.
