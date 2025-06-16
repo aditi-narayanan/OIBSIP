@@ -1,4 +1,4 @@
-# Patch Management in Cybersecurity – Technical Report
+# Patch Management in Cybersecurity – Research Report
 
 ---
 
