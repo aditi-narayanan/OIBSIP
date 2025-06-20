@@ -106,3 +106,8 @@ From the domains contacted, we can infer:
 ## Conclusion
 
 The captured traffic reflects secure communication patterns typical of modern web browsers. DNS and TLS packet flows were successfully captured and analyzed.
+
+# Demo Video of how to capture network traffic with wireshark
+
+https://github.com/user-attachments/assets/40df65ec-b18d-45a0-896e-27441f0cb7f7
+
