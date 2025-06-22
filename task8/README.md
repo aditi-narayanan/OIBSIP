@@ -15,7 +15,7 @@ This project demonstrates network traffic capture using Wireshark, focusing on H
 3. Applied filters in Wireshark to isolate HTTP-related traffic ( using filter http or tcp.port==80 || udp.port==80 ).
 4. Analyzed DNS queries, TCP handshakes, etc.
 
-# 🧪 Detailed HTTP Traffic Analysis
+# Detailed HTTP Traffic Analysis
  
 **Client IP**: `10.0.2.15`  
 **Ports Used**: All communication over **port 80** (plaintext HTTP)
