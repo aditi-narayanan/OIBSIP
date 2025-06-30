@@ -4,7 +4,7 @@
 
 ### Manual Input Fuzzing
 
-During initial testing, the `id` parameter in the URL was manually fuzzed using a basic SQL payload: http://<target-ip>/dvwa/vulnerabilities/sqli/?id=1'&Submit=Submit
+During initial testing, the `id` parameter in the URL was manually fuzzed using a basic SQL payload: http://<target-ip>/dvwa/vulnerabilities/sqli/?id='&Submit=Submit
 
 The server returned a MySQL error message:
 
@@ -33,7 +33,7 @@ This indicated that the input was being directly injected into a SQL query witho
    - Log into DVWA and capture the login request and session cookie
 
 3. **Run the Automated Exploit Script**:
-   ./filename.sh <url> <cookie>
+   ./sql_injection_exploit.sh <url> <cookie>
 
 ---
 
@@ -66,7 +66,7 @@ if (!ctype_digit($id)) {
 ### Step 2: Use PDO with Prepared Statements
 
 Use parameterized queries to safely interact with the database.
-## Secure PHP Code Using PDO
+#### Secure PHP Code Using PDO
 
 ```php
 <?php
